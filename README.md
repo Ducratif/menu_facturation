@@ -30,7 +30,7 @@ Interface optimisée avec ox_lib, navigation intuitive, et intégration parfaite
 
 ## 🧱 Dépendances
 
-- ox_lib (obligatoire)
+- ox_lib (obligatoire) https://github.com/Ducratif/ox_lib
 - oxmysql
 - ESX Legacy
 
